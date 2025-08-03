@@ -24,7 +24,5 @@ Task Sphere - An intelligent AI assistant built with n8n that serves as your per
 - LLM (LLaMA / GPT / Claude) – Intent recognition & conversation flow
 - Google Calendar API – Meeting & event scheduling
 - Google Sheets API – Task tracking & status management
-
-Webhooks & n8n UI – Command input and results delivery
-
-Optional Frontend – Streamlit, Telegram Bot, or voice assistant
+- Webhooks & n8n UI – Command input and results delivery
+- Optional Frontend – Streamlit, Telegram Bot, or voice assistant
